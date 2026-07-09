@@ -5,7 +5,7 @@ Resources:
   ArtifactBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: website-artifacts
+      BucketName: website-artifacts-alex-1285
       WebsiteConfiguration:
         IndexDocument: index.html
         ErrorDocument: error.html
